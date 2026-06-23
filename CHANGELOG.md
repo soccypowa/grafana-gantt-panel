@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.9.0 (2026)
+
+Package.json
+- Changed the name of the plugin
+- Changed Author
+- Changed version
+- Removed homepage, bugs, repository, url
+
 ## 0.8.1 (2022-06-28)
 
 [Full changelog](https://github.com/marcusolsson/grafana-gantt-panel/compare/v0.8.0...v0.8.1)
